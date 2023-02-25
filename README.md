@@ -1,2 +1,3 @@
 # front-end-vibes
-all front end projects I've done
+website i am building from scratch using html, javascript and CSS.
+
